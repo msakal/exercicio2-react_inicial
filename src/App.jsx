@@ -20,7 +20,7 @@ function App() {
 
   return (
     <>
-      <h1>Exercício 2 </h1>
+      <h1>Exercício 2</h1>
       <section>
         <ul>
           {itens.map(({ id, title, image, price }) => (
